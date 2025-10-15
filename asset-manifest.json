@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/metall-plant-website/static/css/main.24050705.css",
-    "main.js": "/metall-plant-website/static/js/main.c3545ca4.js",
-    "index.html": "/metall-plant-website/index.html",
-    "main.24050705.css.map": "/metall-plant-website/static/css/main.24050705.css.map",
-    "main.c3545ca4.js.map": "/metall-plant-website/static/js/main.c3545ca4.js.map"
+    "main.css": "/static/css/main.24050705.css",
+    "main.js": "/static/js/main.c3545ca4.js",
+    "index.html": "/index.html",
+    "main.24050705.css.map": "/static/css/main.24050705.css.map",
+    "main.c3545ca4.js.map": "/static/js/main.c3545ca4.js.map"
   },
   "entrypoints": [
     "static/css/main.24050705.css",
